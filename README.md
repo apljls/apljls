@@ -3,7 +3,7 @@
 ### Olá PessoALL👋
 
 
-<br/>Atualmente trabalho na Tecnologia Bancaria SA como analista de sistemas na área de Sustentação de sistemas de produção, analisamos problemas e desenvolvemos correção para os mesmos e posterior a isso, realizamos a devida implantação.
+<br/>Atualmente trabalho na Tecnologia Bancaria SA como analista de sistemas na área de Sustentação de sistemas de produção, analisamos problemas e desenvolvemos correções para os mesmos e posterior a isso, realizamos a devida implantação.
 
 <br/>Formado em análise e desenvolvimento de sistemas, no momento estou estudando e pretendo me especializar em JavaScript, React e ReactNative.
 
